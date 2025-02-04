@@ -66,7 +66,7 @@ SCAN (Student-Centric Academic Network) is a comprehensive research hub that ser
 
 ## License
 
-This project is licensed under the GNU v3 License. See the (LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the (LICENSE) file for details.
 
 ---
 
