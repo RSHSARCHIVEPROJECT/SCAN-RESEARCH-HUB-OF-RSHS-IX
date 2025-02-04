@@ -55,6 +55,12 @@ SCAN (Student-Centric Academic Network) is a comprehensive research hub that ser
 2. **About Us**: Organize and manage your research collection.
 3. **FAQs**: If you have any question or discovered a question, this section might help you answer those, if not. Don't worry, we intend to expand and will add more questions in this section
 
+## Survey
+
+After having a tour to our application, checking all the other features and things. Please help us by answering our Survey for our Research.
+Link: 
+That would be all Thank you!
+
 ## Acknowledgments
 
 - Regional Science High School for Region IX
