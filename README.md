@@ -55,20 +55,21 @@ SCAN (Student-Centric Academic Network) is a comprehensive research hub that ser
 2. **About Us**: Organize and manage your research collection.
 3. **FAQs**: If you have any question or discovered a question, this section might help you answer those, if not. Don't worry, we intend to expand and will add more questions in this section
 
-## Survey
-
-After having a tour to our application, checking all the other features and things. Please help us by answering our Survey for our Research.
-Link: 
-That would be all Thank you!
-
 ## Acknowledgments
 
-- Regional Science High School for Region IX
-- Arzed Kyle C. Payao - Lead Developer
-- Chermione B. Bragat - Tester
-- Nicholaine Dominique F. Romaro - Tester
-- Flutter and Dart for the robust framework
-- Open-source libraries and tools used in development
+The Researchers:
+- Mr. Arzed Kyle C. Payao
+- Ms. Chermione B. Bragat
+- Ms. Nicholaine Dominique F. Romaro
+
+The researchers extend their sincere appreciation to all individuals who dedicated their time and effort to the successful completion of this application.
+
+- Regional Science High School- IX Principal V, Mr, Zandro G. Sepe.
+- To the School Registrar.
+- To Ms. Mary Joy Lovely C. Siga.
+- To Mr. Ranz Ley Seballos.
+- To the Science Learning Teachers.
+- To Ms. Julienne Tolitel.
 
 ## License
 
@@ -76,6 +77,6 @@ This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 I
 
 ---
 
-Join us in revolutionizing academic research and collaboration! If you have any questions or feedback, feel free to reach out to our support team or submit an issue on GitHub or Contact our School ICT Administrator.
+Join us in revolutionizing academic research and collaboration! If you have any questions or feedback, feel free to reach out to our School ICT Administrator. or submit an issue on GitHub.
 
 Happy researching!
