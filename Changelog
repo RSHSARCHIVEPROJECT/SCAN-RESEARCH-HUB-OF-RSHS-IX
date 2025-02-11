@@ -1,0 +1,53 @@
+The first full release of the application - v1.0.0 - February 4, 2025
+
+Added 4 Research Categories (for now)
+Added Access of the Students of this School Year using their LRN
+Added a Timer to limit the viewing of the Paper
+Added a Cooldown after the time limit runs out
+Added Search Queries to easily search the Research Papers
+Added Account Login Attempts (default: 3 attempts)
+Added Account Lockout (if the attempts run out to the specific LRN)
+Added Color coded Categories
+Added Amount of Paper Counter in the Category
+Updated the Application Icon
+Updated the Application Name
+Updated the Contents of About Us
+Updated the Contents of FAQs
+Optimized the fetching of data from the cloud for the Research Papers
+Shorten the size of storage used of the application
+
+Version 1.0.1 Update
+
+- Added an Error Dialog When Fetching the Research Papers from the Cloud Failed Due to the Disruption of Internet Connection
+- Added a Logic that Automatically Updates the Amount of Research Papers when Uploaded in the Cloud Storage
+- Added a Logic that Automatically Adds a Category when Uploaded in the Cloud Storage
+- Updated the Questions to Change the Default Password of the LRNs
+- Updated the Admin Panel
+- Fixed the Mathematics Catergory not showing up in the Application
+- Fixed the Source Code Showing Up whenever it is Viewed using a third-party File Management Apps like ZArchiver
+- Fixed the Temporary Download Link of Research Papers
+- Fixed the Cooldown not Working after Viewing the Paper for an Hour
+- Removed the "ClientException with SocketException" Error
+- Optimized the Speed of Fetching the Research Papers from the Cloud
+- Optimized the Caching Downloads of the Research Papers
+
+New Update - v1.1.0 - February 9, 2025
+
+Added a Drawer Menu
+Added a Recently Viewed Page
+Added a Favorites Page
+Added Bug Report Page
+Added a Timer Above the Research Paper Cards
+Added a Timer Inside of the Research Paper Cards
+Added an Animation to the Navigation Bar
+Added Custom Snackbar
+Added a Favorite Button Inside of the Research Paper Cards
+Added a Table of Bug Reports inside the Admin Panel
+Updated the Search Engine to also Show In Cooldown Research Paper
+Fixed the Landscape Model
+Removed the Loading Timer when Viewing the Research Paper
+
+Version 1.1.1 Update - February 12, 2025
+
+Added a Feedback Page
+Optimized the App
