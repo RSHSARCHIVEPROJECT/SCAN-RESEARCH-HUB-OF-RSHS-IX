@@ -46,8 +46,8 @@ SCAN (Student-Centric Academic Network) is a comprehensive research hub that ser
 3. Sign in with your School LRN
 
 #### iOS
-1. Approach or Contact the School ICT Administrator for the installation of the application in the method of "Sideloading"
-2. Install and open the application
+1. Access to the WebApp using Chrome or Safari
+2. Add the WebApp to the Screen
 3. Sign in with your School LRN
 
 ### Quick Tour
